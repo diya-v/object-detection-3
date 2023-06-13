@@ -1,0 +1,44 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+#heading{
+    color: whitesmoke;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.menu{
+    color: whitesmoke;
+    font-size: 30px;
+    padding-top: 50px;
+    padding-bottom:50px;
+    margin-top: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+canvas{
+    border-width: 5px;
+    border-color:whitesmoke;
+    border-radius:10px;
+    border-style:solid;
+}
+
+#reg{
+    background-color: black;
+}
+#buttons{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+#status{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+#quantity{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
